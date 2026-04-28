@@ -1,0 +1,9 @@
+{
+  "name": "booking-payment-approval-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interactive booking approval demo with admin-controlled payment method selection.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
